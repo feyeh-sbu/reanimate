@@ -1,6 +1,6 @@
 #  Reanimate
 ## The codebase of Reanimate for SASEHack 2022
-## Team members: YanKun (Alex) Meng, Jeffery Luo, Federick Yeh, Xingzhi (Jacky) Guo
+## Team members: YanKun (Alex) Meng, Jeffery Luo, Federick Yeh
 
 ## Inspiration
 
